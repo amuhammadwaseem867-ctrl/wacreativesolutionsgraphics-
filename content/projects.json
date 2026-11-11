@@ -1,0 +1,353 @@
+{
+  "projects": [
+    {
+      "slug": "af7",
+      "title": "AF7 Apparel Fastener",
+      "short": "AF7",
+      "discipline": "Brand identity, guidelines, packaging",
+      "categories": ["identity", "packaging"],
+      "featured": true,
+      "summary": "A complete visual identity and 45-page brand book for a Lahore zipper manufacturer, built on precision.",
+      "overview": "AF7 makes zippers and fastening components for garment makers and apparel brands. The identity is built around strength, clarity and quiet confidence, so the logo, colour, typography and graphic language work as one voice from a carton label to the company website.",
+      "challenge": "Industrial suppliers often look generic or dated. AF7 needed to feel as precise as the parts it makes and hold together across factory packaging, workwear, stationery and digital.",
+      "solution": "A heavy, compact AF7 wordmark with a strict construction grid and clear-space rules, a navy-led palette with steel and mist neutrals, Montserrat and Poppins for type, a zipper-tooth pattern and a line icon set. The guidelines cover packaging on three board types, polybags, workwear, stationery, the website and the app.",
+      "services": ["Logo design", "Visual identity", "Brand guidelines", "Packaging", "Workwear", "Stationery", "Web and app direction"],
+      "palette": [
+        {"name": "AF7 Navy", "hex": "#243146"},
+        {"name": "Steel", "hex": "#BCC6CC"},
+        {"name": "Mist", "hex": "#D9DED8"},
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "fonts": [
+        {"name": "Montserrat", "role": "Headlines and the wordmark"},
+        {"name": "Poppins", "role": "Body text and labels"}
+      ],
+      "values": ["Precision", "Strength", "Reliability", "Clarity"],
+      "cover": "assets/work/af7/cover.jpg",
+      "gallery": [
+        {"src": "assets/work/af7/logo.jpg", "caption": "Primary logo on AF7 Navy and on white"},
+        {"src": "assets/work/af7/construction.jpg", "caption": "Logo construction and proportions"},
+        {"src": "assets/work/af7/versions.jpg", "caption": "Approved colour versions"},
+        {"src": "assets/work/af7/misuse.jpg", "caption": "Logo misuse rules"},
+        {"src": "assets/work/af7/colour.jpg", "caption": "Colour palette with HEX, RGB, CMYK and Pantone"},
+        {"src": "assets/work/af7/type-montserrat.jpg", "caption": "Primary typeface: Montserrat", "half": true},
+        {"src": "assets/work/af7/type-poppins.jpg", "caption": "Secondary typeface: Poppins", "half": true},
+        {"src": "assets/work/af7/photography.jpg", "caption": "Photography style"},
+        {"src": "assets/work/af7/pattern.jpg", "caption": "Zipper-tooth pattern", "half": true},
+        {"src": "assets/work/af7/icons.jpg", "caption": "Line icon set", "half": true},
+        {"src": "assets/work/af7/dieline.jpg", "caption": "Shipping carton dieline"},
+        {"src": "assets/work/af7/box.jpg", "caption": "Branded carton", "half": true},
+        {"src": "assets/work/af7/boards.jpg", "caption": "One identity on three board types", "half": true},
+        {"src": "assets/work/af7/polybag.jpg", "caption": "Polybag and product label"},
+        {"src": "assets/work/af7/coveralls.jpg", "caption": "Factory workwear", "half": true},
+        {"src": "assets/work/af7/polos.jpg", "caption": "Branded polo shirts", "half": true},
+        {"src": "assets/work/af7/story.jpg", "caption": "Brand story"},
+        {"src": "assets/work/af7/stationery.jpg", "caption": "Stationery suite", "half": true},
+        {"src": "assets/work/af7/cards.jpg", "caption": "Business cards and envelope", "half": true},
+        {"src": "assets/work/af7/website.jpg", "caption": "Website direction", "half": true},
+        {"src": "assets/work/af7/app.jpg", "caption": "Mobile app direction", "half": true},
+        {"src": "assets/work/af7/closing.jpg", "caption": "Guidelines closing page"}
+      ]
+    },
+    {
+      "slug": "corvane",
+      "title": "Corvane",
+      "discipline": "Brand identity, private wealth",
+      "categories": ["identity"],
+      "featured": true,
+      "concept": true,
+      "summary": "A quiet-luxury identity for a private bank and family office, built on a raven drawn with a compass.",
+      "overview": "Corvane is a self-initiated concept for a private wealth bank and family office in Lahore, Dubai and London. The project covers the whole identity, from the symbol and its geometry to stationery, a brass client card, a banking app and a brand standards book.",
+      "challenge": "Private banks tend to look either old and ornate or interchangeable with retail fintech. The goal was an identity as precise as Swiss engineering and as calm as an old banking hall, with a mark that still works at 16 pixels and in one colour.",
+      "solution": "The symbol is a single initial C that is also a raven in profile, built only from circles and horizontals, with its beak resting on a horizon line that runs through every application. Ledger green, ivory and brushed brass, Cormorant Garamond with Inter, and a measured tone of voice carry it from foil-stamped paper to the app.",
+      "services": ["Brand strategy", "Logo design", "Visual identity system", "Stationery", "Card design", "App UI direction", "Brand guidelines"],
+      "palette": [
+        {"name": "Ledger green", "hex": "#0F2A24"},
+        {"name": "Ivory", "hex": "#F1ECE2"},
+        {"name": "Stone", "hex": "#D8D0C1"},
+        {"name": "Ink", "hex": "#1C1C1C"},
+        {"name": "Brushed brass", "hex": "#B08D57"}
+      ],
+      "fonts": [
+        {"name": "Cormorant Garamond", "role": "Wordmark and headlines"},
+        {"name": "Inter", "role": "Body text and interface"}
+      ],
+      "cover": "assets/work/corvane/01-cover.webp",
+      "gallery": [
+        {"src": "assets/work/corvane/02-mark.webp", "caption": "The symbol and its construction"},
+        {"src": "assets/work/corvane/03-system.webp", "caption": "Colour, typography and tone of voice"},
+        {"src": "assets/work/corvane/04-stationery.webp", "caption": "Stationery suite", "half": true},
+        {"src": "assets/work/corvane/05-client-card.webp", "caption": "Private client cards in brass and ink-green PVD", "half": true},
+        {"src": "assets/work/corvane/06-digital.webp", "caption": "App icon and private banking app"},
+        {"src": "assets/work/corvane/07-standards.webp", "caption": "Brand standards book"}
+      ]
+    },
+    {
+      "slug": "fani-coffee",
+      "title": "FANI Coffee",
+      "discipline": "Brand identity, coffee shop",
+      "categories": ["identity", "packaging"],
+      "featured": true,
+      "summary": "A warm, premium identity for Farhan Shafiq's coffee house: Brewing Good Vibes.",
+      "overview": "FANI Coffee is a premium coffee house built on warm hospitality. The name comes from the idea of a fan: a person who appreciates, loves and supports. The brand positions FANI as a community of coffee lovers, not just a place to buy a cup.",
+      "challenge": "The local market already has strong names like Gloria Jean's and well-loved independents. FANI needed a recognisable, premium look that still felt friendly, and a system that could stretch from cups to uniforms, signage, social media and an ordering app.",
+      "solution": "A steaming-cup mark paired with a confident serif wordmark and the tagline Brewing Good Vibes, in espresso brown, caramel and cream. The system includes horizontal, stacked, emblem and reverse logos, uniforms, drinkware, takeaway packaging, storefront and wall signage, social templates and a mobile app.",
+      "services": ["Brand strategy", "Logo system", "Packaging", "Uniforms", "Signage", "Social media", "App UI"],
+      "palette": [
+        {"name": "Espresso brown", "hex": "#2E1A0F"},
+        {"name": "Caramel", "hex": "#C28A4A"},
+        {"name": "Warm beige", "hex": "#E2C49C"},
+        {"name": "Cream", "hex": "#F8EDE2"}
+      ],
+      "fonts": [
+        {"name": "Montserrat", "role": "Headings, titles and branding (Bold)"},
+        {"name": "Montserrat", "role": "Body text and menus (Regular)"}
+      ],
+      "values": ["Warm", "Welcoming", "Authentic", "Confident", "Inspiring"],
+      "cover": "assets/work/fani/signage.jpg",
+      "gallery": [
+        {"src": "assets/work/fani/logos.jpg", "caption": "Logo and its variations"},
+        {"src": "assets/work/fani/storefront.jpg", "caption": "Storefront"},
+        {"src": "assets/work/fani/uniforms.jpg", "caption": "Uniforms: apron, T-shirt, polo and cap", "half": true},
+        {"src": "assets/work/fani/drinkware.jpg", "caption": "Drinkware and takeaway packaging", "half": true},
+        {"src": "assets/work/fani/app.jpg", "caption": "Mobile ordering app", "half": true},
+        {"src": "assets/work/fani/iced.jpg", "caption": "Iced drinks and tissue box", "half": true},
+        {"src": "assets/work/fani/social.jpg", "caption": "Social media profile, posts and maps listing"}
+      ]
+    },
+    {
+      "slug": "ember-and-oak",
+      "title": "Ember & Oak",
+      "discipline": "Brand identity, packaging, web",
+      "categories": ["identity", "packaging"],
+      "featured": true,
+      "concept": true,
+      "summary": "A luxury coffee brand built around slow craft, origin stories and an editorial online shop.",
+      "overview": "Ember & Oak is a concept specialty-coffee brand shaped around carefully sourced beans and the rituals that make coffee memorable. Warm natural tones, refined typography and an editorial visual language make it feel timeless, tactile and quietly premium.",
+      "challenge": "Specialty coffee is crowded with near-identical kraft-paper looks. The brief was to signal craft and origin without clichés, and carry that feeling from a bag on the shelf to a product page on a phone.",
+      "solution": "A flexible mark and an origin-led packaging system where each bean, from Brazil, Colombia and Ethiopia, gets its own character inside one family. The website turns the physical identity into an editorial journey through story, packaging, craft and signature blends.",
+      "services": ["Brand strategy", "Logo system", "Packaging design", "Art direction", "Website UI design"],
+      "cover": "assets/work/ember-and-oak/cover.webp",
+      "gallery": [
+        {"src": "assets/work/ember-and-oak/brand-identity.webp", "caption": "Brand identity"},
+        {"src": "assets/work/ember-and-oak/logo-variation.webp", "caption": "Logo system", "half": true},
+        {"src": "assets/work/ember-and-oak/color-pallete.webp", "caption": "Colour palette", "half": true},
+        {"src": "assets/work/ember-and-oak/typography.webp", "caption": "Typography", "half": true},
+        {"src": "assets/work/ember-and-oak/brand-application.webp", "caption": "Brand application", "half": true},
+        {"src": "assets/work/ember-and-oak/brazil.webp", "caption": "Origin packaging: Brazil"},
+        {"src": "assets/work/ember-and-oak/colombia.webp", "caption": "Origin packaging: Colombia", "half": true},
+        {"src": "assets/work/ember-and-oak/ethiopia.webp", "caption": "Origin packaging: Ethiopia", "half": true},
+        {"src": "assets/work/ember-and-oak/cafe-experience-1.webp", "caption": "Café experience"},
+        {"src": "assets/work/ember-and-oak/01-navbar-hero.webp", "caption": "Website: hero", "half": true},
+        {"src": "assets/work/ember-and-oak/02-navbar-story.webp", "caption": "Website: story", "half": true}
+      ]
+    },
+    {
+      "slug": "4k-brew",
+      "title": "4K Brew",
+      "discipline": "Brand identity, café",
+      "categories": ["identity", "packaging"],
+      "summary": "A warm, modern café identity: Brewed for Perfection. Every sip crafted with joy and served with love.",
+      "overview": "4K Brew is a modern coffee brand built around premium quality, refined taste and a warm café experience. The identity combines contemporary design with the authentic character of coffee culture.",
+      "challenge": "The café needed one identity that could work for coffee, tea and dessert, look premium on a takeaway cup and still feel friendly enough for a neighbourhood café.",
+      "solution": "A cup-and-beans mark with a spaced BRÉW wordmark, in four versions: abstract, vintage badge, signature script and reverse. Black stands for quality, Bright Sienna for warmth and freshness, and Baker's Chocolate for roasted beans. The system runs across cups, bags, menus, a thank-you card, signage, staff uniforms and social posts, tied together with a hand-drawn leaf pattern.",
+      "services": ["Logo design", "Logo variations", "Packaging", "Menu design", "Signage", "Uniforms", "Social media"],
+      "palette": [
+        {"name": "Baker's chocolate", "hex": "#603813"},
+        {"name": "Bright sienna", "hex": "#AF5E2A"},
+        {"name": "Soft amber", "hex": "#E4C98C"},
+        {"name": "Pale silver", "hex": "#CBBFB1"},
+        {"name": "Sea anemone", "hex": "#E7DAD5"},
+        {"name": "Hippie green", "hex": "#588157"}
+      ],
+      "values": ["Premium", "Modern", "Warm", "Authentic", "Sophisticated"],
+      "cover": "assets/work/4k-brew/hero.jpg",
+      "gallery": [
+        {"src": "assets/work/4k-brew/variations.jpg", "caption": "Abstract, vintage, signature and reverse logos"},
+        {"src": "assets/work/4k-brew/packaging.jpg", "caption": "Packaging", "half": true},
+        {"src": "assets/work/4k-brew/menu.jpg", "caption": "Menu design", "half": true},
+        {"src": "assets/work/4k-brew/cup-front.jpg", "caption": "Cup, front", "third": true},
+        {"src": "assets/work/4k-brew/cup-back.jpg", "caption": "Cup, back", "third": true},
+        {"src": "assets/work/4k-brew/store-sign.jpg", "caption": "Store sign", "third": true},
+        {"src": "assets/work/4k-brew/thank-you.jpg", "caption": "Thank-you card", "half": true},
+        {"src": "assets/work/4k-brew/social.jpg", "caption": "Social post", "half": true},
+        {"src": "assets/work/4k-brew/shirt.jpg", "caption": "Staff shirt", "third": true},
+        {"src": "assets/work/4k-brew/cap.jpg", "caption": "Staff cap", "third": true},
+        {"src": "assets/work/4k-brew/cup-holder.jpg", "caption": "Cup holder", "third": true},
+        {"src": "assets/work/4k-brew/pattern.jpg", "caption": "Brand pattern"}
+      ]
+    },
+    {
+      "slug": "discover-gilgit-baltistan",
+      "title": "Discover Gilgit Baltistan",
+      "discipline": "Brand identity, tourism",
+      "categories": ["identity"],
+      "summary": "A tourism identity for the northern mountains: Explore. Experience. Belong.",
+      "overview": "Discover Gilgit Baltistan captures the spirit of adventure, natural beauty and rich culture of Pakistan's northern mountains. The brand stands for exploration, belonging and a deep connection with nature.",
+      "challenge": "A destination brand has to work on a luggage tag, a water bottle and a tiny social icon, and appeal to adventurers and families alike.",
+      "solution": "A bold gb monogram with the mountain range set into the b, in forest green, olive, sand and off-white. The mark works in light, dark and green versions, as a repeat pattern and as an app icon, with a set of line illustrations for mountains, camping, exploring, photography and adventure.",
+      "services": ["Logo design", "Brand values", "Colour and type", "Merchandise", "Pattern", "Icons", "Social media icon"],
+      "palette": [
+        {"name": "Forest", "hex": "#0E2A1F"},
+        {"name": "Olive", "hex": "#3D5A3A"},
+        {"name": "Sand", "hex": "#C7B48B"},
+        {"name": "Snow", "hex": "#F5F1E8"},
+        {"name": "Basalt", "hex": "#1A1A1A"}
+      ],
+      "fonts": [{"name": "Poppins", "role": "Bold, for the logo and headlines"}],
+      "values": ["Adventure", "Authenticity", "Belonging", "Sustainability"],
+      "cover": "assets/work/gilgit-baltistan/logo.jpg",
+      "gallery": [
+        {"src": "assets/work/gilgit-baltistan/variations.jpg", "caption": "Logo variations"},
+        {"src": "assets/work/gilgit-baltistan/merch.jpg", "caption": "Cap and bottles"},
+        {"src": "assets/work/gilgit-baltistan/luggage.jpg", "caption": "Luggage", "third": true},
+        {"src": "assets/work/gilgit-baltistan/hoodie.jpg", "caption": "Hoodie", "third": true},
+        {"src": "assets/work/gilgit-baltistan/app-icon.jpg", "caption": "Social media icon", "third": true},
+        {"src": "assets/work/gilgit-baltistan/pattern.jpg", "caption": "Brand pattern"}
+      ]
+    },
+    {
+      "slug": "mono",
+      "title": "Mono",
+      "discipline": "Brand identity, art direction",
+      "categories": ["identity"],
+      "concept": true,
+      "summary": "A monochrome identity system built on typography, structure and restraint.",
+      "overview": "Mono is a contemporary identity focused on simplicity, structure and recognition, designed to stay consistent across stationery, packaging, signage and social media.",
+      "challenge": "A minimal identity can easily become anonymous. The challenge was to make restraint recognisable without relying on colour or decoration.",
+      "solution": "A constructed mark on a precise grid, a black, white and red palette, typography that balances personality with clarity, and guidelines that run naturally from business cards to billboards.",
+      "services": ["Brand strategy", "Logo design", "Brand guidelines", "Stationery", "Packaging", "Art direction"],
+      "cover": "assets/work/mono/stationery.webp",
+      "gallery": [
+        {"src": "assets/work/mono/logo-primary.webp", "caption": "Primary logo", "half": true},
+        {"src": "assets/work/mono/logo-grid.webp", "caption": "Construction grid", "half": true},
+        {"src": "assets/work/mono/color-palette.webp", "caption": "Colour", "half": true},
+        {"src": "assets/work/mono/typography.webp", "caption": "Typography", "half": true},
+        {"src": "assets/work/mono/brand-guidelines.webp", "caption": "Guidelines"},
+        {"src": "assets/work/mono/business-card.webp", "caption": "Business cards", "half": true},
+        {"src": "assets/work/mono/letterhead.webp", "caption": "Letterhead", "half": true},
+        {"src": "assets/work/mono/packaging.webp", "caption": "Packaging"},
+        {"src": "assets/work/mono/storefront.webp", "caption": "Storefront", "half": true},
+        {"src": "assets/work/mono/billboard.webp", "caption": "Billboard", "half": true},
+        {"src": "assets/work/mono/social-media.webp", "caption": "Social media"}
+      ]
+    },
+    {
+      "slug": "aero-serum",
+      "title": "AERO Hydrating Serum",
+      "discipline": "Packaging design, skincare",
+      "categories": ["packaging"],
+      "summary": "Carton, dieline and bottle label for a hydrating face serum.",
+      "overview": "Packaging for AERO's hydrating face serum: a folding carton, its print-ready dieline and a matching dropper-bottle label, all carrying the AERO wave globe.",
+      "challenge": "Skincare shelves are crowded with white boxes. The carton had to read as fresh and hydrating at a glance, and still fit every ingredient, benefit and barcode a retailer needs.",
+      "solution": "A single confident ocean blue with the wave-globe mark, clear benefit lines for deep hydration, natural glow and skin nourishment, and a dieline laid out with bleed and glue flaps for production.",
+      "services": ["Packaging design", "Dieline", "Label design", "Mockups"],
+      "palette": [
+        {"name": "Ocean blue", "hex": "#1574AA"},
+        {"name": "Ink", "hex": "#131313"},
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "cover": "assets/work/aero-serum/bottle.jpg",
+      "gallery": [
+        {"src": "assets/work/aero-serum/logo.jpg", "caption": "AERO wave-globe logo", "half": true},
+        {"src": "assets/work/aero-serum/box-flat.jpg", "caption": "Printed carton, flat", "half": true},
+        {"src": "assets/work/aero-serum/dieline.jpg", "caption": "Print-ready dieline"},
+        {"src": "assets/work/aero-serum/label.jpg", "caption": "Dropper-bottle label"}
+      ]
+    },
+    {
+      "slug": "aero-performance",
+      "title": "AERO Performance",
+      "discipline": "Brand identity, sports and fitness",
+      "categories": ["identity"],
+      "summary": "A sharp, fast identity for a fitness brand: Built for Higher Performance.",
+      "overview": "AERO Performance is a fitness and sportswear brand. The identity is designed to feel fast and athletic on gym walls, kit and drinkware.",
+      "challenge": "Fitness brands live on merchandise. The mark needed to read from across a gym and stay bold when printed small on a bottle.",
+      "solution": "A slanted A built from a single stroke with a red speed swoosh, an extended italic AERO wordmark and the line Built for Higher Performance, in performance red, black, white and two greys. Dark and light logo versions cover every background.",
+      "services": ["Logo design", "Logo guide", "Colour guide", "Typography guide", "Merchandise"],
+      "palette": [
+        {"name": "Performance red", "hex": "#E73847"},
+        {"name": "White", "hex": "#FFFFFF"},
+        {"name": "Black", "hex": "#1A1A1A"},
+        {"name": "Slate", "hex": "#9CA3AF"},
+        {"name": "Mist", "hex": "#D9DED8"}
+      ],
+      "fonts": [
+        {"name": "Helvetica", "role": "Primary font"},
+        {"name": "Segoe UI", "role": "Secondary font"}
+      ],
+      "cover": "assets/work/aero-sport/header.jpg",
+      "gallery": [
+        {"src": "assets/work/aero-sport/logo-colour.jpg", "caption": "Logo and colour guide"},
+        {"src": "assets/work/aero-sport/bottles.jpg", "caption": "Visuals and mood: branded bottles"}
+      ]
+    },
+    {
+      "slug": "noorah",
+      "title": "Noorah",
+      "discipline": "Mascot, brand identity, content",
+      "categories": ["identity", "social"],
+      "concept": true,
+      "summary": "A character-led lifestyle identity that turns a personality into a complete content system.",
+      "overview": "Noorah is a playful mascot identity that gives a lifestyle brand a recognisable personality, visual voice and emotional connection across beauty, fashion and self-care content.",
+      "challenge": "Creator brands need to feel personal while staying consistent across hundreds of posts, thumbnails and products.",
+      "solution": "An expressive character mark, a soft but refined visual language, photography direction, social and YouTube templates, and merchandise: a system that lets the personality scale.",
+      "services": ["Mascot design", "Brand identity", "Content system", "Social templates", "Merchandise"],
+      "cover": "assets/work/noorah/01-cover.webp",
+      "gallery": [
+        {"src": "assets/work/noorah/logoshowcase.webp", "caption": "Logo system"},
+        {"src": "assets/work/noorah/brand-story.webp", "caption": "Brand story", "half": true},
+        {"src": "assets/work/noorah/moodboard.webp", "caption": "Moodboard", "half": true},
+        {"src": "assets/work/noorah/typography.webp", "caption": "Typography", "half": true},
+        {"src": "assets/work/noorah/socialmediakit.webp", "caption": "Social media kit", "half": true},
+        {"src": "assets/work/noorah/thumbnailsystem.webp", "caption": "Thumbnail system", "half": true},
+        {"src": "assets/work/noorah/youtubebranding.webp", "caption": "YouTube branding", "half": true},
+        {"src": "assets/work/noorah/merchandisecollection.webp", "caption": "Merchandise"}
+      ]
+    },
+    {
+      "slug": "open-after-hours",
+      "title": "Open After Hours",
+      "discipline": "Social media campaign",
+      "categories": ["social"],
+      "concept": true,
+      "summary": "WA Creative Solution's own social launch campaign, built around a line every shop owner knows.",
+      "overview": "An in-house social campaign for Instagram, Facebook and LinkedIn. The idea is simple: a shop closes at night, a good website doesn't. It runs as a template system of feed posts, carousels, stories and link ads, built around four content pillars.",
+      "challenge": "Small businesses scroll past agency ads about digital transformation. The campaign had to sound like the people it is for, show real proof instead of claims, and be easy to produce every week.",
+      "solution": "A Roman Urdu hook, \"Dukaan raat ko band hoti hai. Website nahi.\", with plain English underneath. Four pillars rotate through the feed: real work, checklists owners save, process steps and local moments like Eid. Every format shares one grid, corner marks, Montserrat headlines and a single red word.",
+      "services": ["Campaign concept", "Social media design", "Content pillars", "Template system", "Copywriting"],
+      "palette": [
+        {"name": "Black", "hex": "#000000"},
+        {"name": "Signal red", "hex": "#FF202D"},
+        {"name": "Deep red", "hex": "#C81020"},
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "cover": "assets/work/open-after-hours/01-cover.webp",
+      "gallery": [
+        {"src": "assets/work/open-after-hours/02-feed.webp", "caption": "The feed and its four content pillars"},
+        {"src": "assets/work/open-after-hours/03-system.webp", "caption": "One message across feed, link ad and story sizes"}
+      ]
+    }
+  ],
+  "web": [
+    {"slug": "spirit", "title": "SPIRIT", "discipline": "E-commerce, activewear", "summary": "An activewear storefront, Designed for Movement, with shop, collections and product pages.", "url": "https://spirit-weld-zeta.vercel.app"},
+    {"slug": "apparel-fastener", "title": "Apparel Fastener", "discipline": "Corporate website, 3D and motion", "summary": "A corporate website for a garment-accessories manufacturer, with immersive motion and product storytelling.", "url": "https://apparel-fastener.vercel.app"},
+    {"slug": "af7", "title": "AF7", "discipline": "Brand website, product catalogue", "summary": "The product-led website for AF7, the zipper manufacturer whose identity is above: Precision in Every Detail.", "url": "https://af7-tau.vercel.app"},
+    {"slug": "cellcraft", "title": "CellCraft", "discipline": "E-commerce, smartphone store", "summary": "A premium storefront for iPhone and Samsung Galaxy phones, with full specs, prices in Rand and ordering on WhatsApp.", "url": "https://cell-craft.vercel.app"},
+    {"slug": "restaurant-os", "title": "RestaurantOS", "discipline": "SaaS web app, restaurant POS", "summary": "A multi-branch restaurant POS and management platform, sold as a per-branch subscription.", "url": "https://restaurant-pos-rms-psi.vercel.app"},
+    {"slug": "zama-zama", "title": "Zama Zama Auto Fitment", "discipline": "Service website, bookings", "summary": "A tyre and wheel-care centre in Cape Town, with tyre search, a featured-tyre catalogue and online bay booking.", "url": "https://zamazama.site"},
+    {"slug": "br9-cafe", "title": "BR9 Cafe & Restaurant", "discipline": "Restaurant website, ordering", "summary": "A dark, editorial website for a cafe in Rawalpindi, with the menu, family deals and ordering on WhatsApp.", "url": "https://br9-cafe-restaurant.vercel.app"},
+    {"slug": "burger-in-town", "title": "Burger in Town", "discipline": "Restaurant website, 3D and motion", "summary": "Fresh burgers, loaded fries and unforgettable deals: an appetite-first restaurant website.", "url": "https://burger-in-town.vercel.app"},
+    {"slug": "nexframe-systems", "title": "Nexframe Systems", "discipline": "Corporate website, architecture", "summary": "A website for an aluminium windows, doors and curtain-wall systems company.", "url": "https://nexframe-nu.vercel.app"},
+    {"slug": "alhaytham-school", "title": "Al-Haytham School", "discipline": "School website, management portal", "summary": "A school website with admin and student portals for attendance, fees, results and notices.", "url": "https://alhaytham-school.vercel.app"},
+    {"slug": "arjumands-salon", "title": "Arjumand's PTV Salon", "discipline": "Beauty salon website", "summary": "An elegant salon website where beauty is an experience, with services and bookings."},
+    {"slug": "heartwood-tree-co", "title": "Heartwood Tree Co.", "discipline": "Service website, arborists", "summary": "A website for certified arborists: save what can be saved, remove the rest safely."}
+  ],
+  "uiConcepts": [
+    {"title": "Veyra GT-1", "discipline": "Launch site and configurator, concept", "summary": "A launch experience for a fictional electric grand tourer: Silence, at speed. A scroll-choreographed reveal, a live configurator and a mobile showroom.", "images": ["assets/work/veyra/02-home.webp", "assets/work/veyra/04-configurator.webp", "assets/work/veyra/06-mobile.webp", "assets/work/veyra/03-motion.webp"]},
+    {"title": "FANI Coffee app", "discipline": "Mobile app UI", "summary": "Splash, home, menu, order, cart, rewards and store-locator screens for the FANI Coffee ordering app.", "images": ["assets/work/fani/app.jpg"], "link": "work/fani-coffee.html"},
+    {"title": "Corvane private banking", "discipline": "App UI direction, concept", "summary": "Welcome and portfolio screens with an app icon tested at every size.", "images": ["assets/work/corvane/06-digital.webp"], "link": "work/corvane.html"},
+    {"title": "AF7 web and app", "discipline": "Web and app direction", "summary": "How the AF7 identity carries into the website and a mobile app, from the brand guidelines.", "images": ["assets/work/af7/website.jpg", "assets/work/af7/app.jpg"], "link": "work/af7.html"},
+    {"title": "Ember & Oak shop", "discipline": "E-commerce UI, concept", "summary": "An editorial coffee shop online: hero, origin story, packaging, craft and signature blends.", "images": ["assets/work/ember-and-oak/01-navbar-hero.webp", "assets/work/ember-and-oak/03-navbar-packaging.webp", "assets/work/ember-and-oak/04-navbar-craft.webp", "assets/work/ember-and-oak/05-navbar-signature.webp"], "link": "work/ember-and-oak.html"}
+  ]
+}

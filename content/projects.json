@@ -1,6 +1,200 @@
 {
   "projects": [
     {
+      "slug": "spirit",
+      "title": "SPIRIT",
+      "short": "SPIRIT",
+      "discipline": "Brand identity, lifestyle activewear",
+      "categories": [
+        "identity",
+        "packaging"
+      ],
+      "featured": true,
+      "summary": "A 53-page visual identity for an activewear and lifestyle brand, built on purposeful movement and quiet confidence.",
+      "overview": "Spirit is a lifestyle wear brand for people who train, recover and live in motion. The guidelines set out how the brand is expressed across every touchpoint, with the logo, colour, typography, imagery and graphic expression working as one visual language across apparel, packaging, retail and digital.",
+      "challenge": "Activewear is crowded with loud logos and neon. Spirit needed to stand out by doing less: an identity calm enough for lifestyle wear and strong enough for performance kit, consistent from a hang tag to a phone screen.",
+      "solution": "An interlocking S emblem drawn from two continuous strokes, paired with a light, widely spaced SPIRIT wordmark. A monochrome palette of black, charcoal, graphite and white, set in Satoshi, keeps the product and photography in focus. The system covers logo construction, symmetry and minimum sizes, misuse rules, colour, pattern and typography, then applies it to apparel, bottles, yoga mats, bags, hang tags, packaging, a campaign, the website, an app and a smartwatch.",
+      "services": [
+        "Brand strategy",
+        "Logo and emblem",
+        "Brand guidelines",
+        "Apparel and merchandise",
+        "Packaging and hang tags",
+        "Campaign art direction",
+        "Website and app direction"
+      ],
+      "palette": [
+        {
+          "name": "Primary black",
+          "hex": "#0B0B0B"
+        },
+        {
+          "name": "Secondary",
+          "hex": "#1D1D1D"
+        },
+        {
+          "name": "Accent graphite",
+          "hex": "#454545"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "fonts": [
+        {
+          "name": "Satoshi",
+          "role": "One family from Light to Black, for every piece of text"
+        }
+      ],
+      "values": [
+        "Purposeful",
+        "Refined",
+        "Calm",
+        "Confident",
+        "In motion"
+      ],
+      "cover": "assets/work/spirit/emblem.jpg",
+      "gallery": [
+        {
+          "src": "assets/work/spirit/logo-dark.jpg",
+          "caption": "Primary lock-up on black"
+        },
+        {
+          "src": "assets/work/spirit/emblem-philosophy.jpg",
+          "caption": "The emblem philosophy",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/logo-usage.jpg",
+          "caption": "Emblem and wordmark usage",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/proportion.jpg",
+          "caption": "Logo proportion",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/symmetry.jpg",
+          "caption": "Logo symmetry and construction",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/integrity.jpg",
+          "caption": "Logo integrity rules"
+        },
+        {
+          "src": "assets/work/spirit/colour.jpg",
+          "caption": "Colour palette"
+        },
+        {
+          "src": "assets/work/spirit/pattern.jpg",
+          "caption": "Pattern",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/satoshi.jpg",
+          "caption": "Typography: Satoshi",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/tee.jpg",
+          "caption": "Apparel"
+        },
+        {
+          "src": "assets/work/spirit/fabric.jpg",
+          "caption": "The emblem on technical fabric",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/runners.jpg",
+          "caption": "Brand in action",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/tank.jpg",
+          "caption": "Performance tank",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/turtleneck.jpg",
+          "caption": "Base layer",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/bottle-track.jpg",
+          "caption": "Bottle on the track"
+        },
+        {
+          "src": "assets/work/spirit/bottles.jpg",
+          "caption": "Bottles and accessories",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/yoga-mat.jpg",
+          "caption": "Yoga mat",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/campaign.jpg",
+          "caption": "Campaign"
+        },
+        {
+          "src": "assets/work/spirit/brochure.jpg",
+          "caption": "Lookbook"
+        },
+        {
+          "src": "assets/work/spirit/tags.jpg",
+          "caption": "Hang tags and size labels",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/hangtags.jpg",
+          "caption": "Hang tag system",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/duffel.jpg",
+          "caption": "Duffel bag",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/packaging.jpg",
+          "caption": "Packaging",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/website.jpg",
+          "caption": "Website"
+        },
+        {
+          "src": "assets/work/spirit/web-pages.jpg",
+          "caption": "Product and campaign pages",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/app.jpg",
+          "caption": "App",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/phone.jpg",
+          "caption": "Mobile shop",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/watch.jpg",
+          "caption": "Smartwatch face",
+          "half": true
+        },
+        {
+          "src": "assets/work/spirit/poster.jpg",
+          "caption": "Retail poster"
+        }
+      ]
+    },
+    {
       "slug": "af7",
       "title": "AF7 Apparel Fastener",
       "short": "AF7",
@@ -242,99 +436,6 @@
         {
           "src": "assets/work/corvane/07-standards.webp",
           "caption": "Brand standards book"
-        }
-      ]
-    },
-    {
-      "slug": "fani-coffee",
-      "title": "FANI Coffee",
-      "discipline": "Brand identity, coffee shop",
-      "categories": [
-        "identity",
-        "packaging"
-      ],
-      "featured": true,
-      "summary": "A warm, premium identity for Farhan Shafiq's coffee house: Brewing Good Vibes.",
-      "overview": "FANI Coffee is a premium coffee house built on warm hospitality. The name comes from the idea of a fan: a person who appreciates, loves and supports. The brand positions FANI as a community of coffee lovers, not just a place to buy a cup.",
-      "challenge": "The local market already has strong names like Gloria Jean's and well-loved independents. FANI needed a recognisable, premium look that still felt friendly, and a system that could stretch from cups to uniforms, signage, social media and an ordering app.",
-      "solution": "A steaming-cup mark paired with a confident serif wordmark and the tagline Brewing Good Vibes, in espresso brown, caramel and cream. The system includes horizontal, stacked, emblem and reverse logos, uniforms, drinkware, takeaway packaging, storefront and wall signage, social templates and a mobile app.",
-      "services": [
-        "Brand strategy",
-        "Logo system",
-        "Packaging",
-        "Uniforms",
-        "Signage",
-        "Social media",
-        "App UI"
-      ],
-      "palette": [
-        {
-          "name": "Espresso brown",
-          "hex": "#2E1A0F"
-        },
-        {
-          "name": "Caramel",
-          "hex": "#C28A4A"
-        },
-        {
-          "name": "Warm beige",
-          "hex": "#E2C49C"
-        },
-        {
-          "name": "Cream",
-          "hex": "#F8EDE2"
-        }
-      ],
-      "fonts": [
-        {
-          "name": "Montserrat",
-          "role": "Headings, titles and branding (Bold)"
-        },
-        {
-          "name": "Montserrat",
-          "role": "Body text and menus (Regular)"
-        }
-      ],
-      "values": [
-        "Warm",
-        "Welcoming",
-        "Authentic",
-        "Confident",
-        "Inspiring"
-      ],
-      "cover": "assets/work/fani/signage.jpg",
-      "gallery": [
-        {
-          "src": "assets/work/fani/logos.jpg",
-          "caption": "Logo and its variations"
-        },
-        {
-          "src": "assets/work/fani/storefront.jpg",
-          "caption": "Storefront"
-        },
-        {
-          "src": "assets/work/fani/uniforms.jpg",
-          "caption": "Uniforms: apron, T-shirt, polo and cap",
-          "half": true
-        },
-        {
-          "src": "assets/work/fani/drinkware.jpg",
-          "caption": "Drinkware and takeaway packaging",
-          "half": true
-        },
-        {
-          "src": "assets/work/fani/app.jpg",
-          "caption": "Mobile ordering app",
-          "half": true
-        },
-        {
-          "src": "assets/work/fani/iced.jpg",
-          "caption": "Iced drinks and tissue box",
-          "half": true
-        },
-        {
-          "src": "assets/work/fani/social.jpg",
-          "caption": "Social media profile, posts and maps listing"
         }
       ]
     },
@@ -585,11 +686,17 @@
         "Belonging",
         "Sustainability"
       ],
-      "cover": "assets/work/gilgit-baltistan/logo.jpg",
+      "cover": "assets/work/gilgit-baltistan/cover.jpg",
       "gallery": [
         {
+          "src": "assets/work/gilgit-baltistan/logo.jpg",
+          "caption": "Primary logo over the valley",
+          "half": true
+        },
+        {
           "src": "assets/work/gilgit-baltistan/variations.jpg",
-          "caption": "Logo variations"
+          "caption": "Logo variations",
+          "half": true
         },
         {
           "src": "assets/work/gilgit-baltistan/merch.jpg",
@@ -901,13 +1008,16 @@
       ]
     },
     {
-      "title": "FANI Coffee app",
-      "discipline": "Mobile app UI",
-      "summary": "Splash, home, menu, order, cart, rewards and store-locator screens for the FANI Coffee ordering app.",
+      "title": "SPIRIT shop and app",
+      "discipline": "Web and app direction",
+      "summary": "The Spirit identity carried into the online shop, a mobile app and a smartwatch face. The live storefront is in the websites list below.",
       "images": [
-        "assets/work/fani/app.jpg"
+        "assets/work/spirit/website.jpg",
+        "assets/work/spirit/app.jpg",
+        "assets/work/spirit/phone.jpg",
+        "assets/work/spirit/watch.jpg"
       ],
-      "link": "work/fani-coffee.html"
+      "link": "work/spirit.html"
     },
     {
       "title": "Corvane private banking",

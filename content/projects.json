@@ -10,10 +10,10 @@
         "packaging"
       ],
       "featured": true,
-      "summary": "A 53-page visual identity for an activewear and lifestyle brand, built on purposeful movement and quiet confidence.",
-      "overview": "Spirit is a lifestyle wear brand for people who train, recover and live in motion. The guidelines set out how the brand is expressed across every touchpoint, with the logo, colour, typography, imagery and graphic expression working as one visual language across apparel, packaging, retail and digital.",
-      "challenge": "Activewear is crowded with loud logos and neon. Spirit needed to stand out by doing less: an identity calm enough for lifestyle wear and strong enough for performance kit, consistent from a hang tag to a phone screen.",
-      "solution": "An interlocking S emblem drawn from two continuous strokes, paired with a light, widely spaced SPIRIT wordmark. A monochrome palette of black, charcoal, graphite and white, set in Satoshi, keeps the product and photography in focus. The system covers logo construction, symmetry and minimum sizes, misuse rules, colour, pattern and typography, then applies it to apparel, bottles, yoga mats, bags, hang tags, packaging, a campaign, the website, an app and a smartwatch.",
+      "summary": "Brand guidelines for Spirit, an activewear and lifestyle clothing brand. 53 pages.",
+      "overview": "Spirit makes clothing for training, recovery and everyday wear. We designed the full identity and a 53-page guideline book covering the logo, colour, type, imagery and how they are used on clothing, packaging, retail and digital.",
+      "challenge": "Most activewear brands use loud logos and bright colours. Spirit wanted a calmer look that still works on sports kit, and that stays consistent from a hang tag to an app screen.",
+      "solution": "The emblem is an S made from two continuous strokes, with a light, widely spaced SPIRIT wordmark. The palette is black, charcoal, graphite and white, and all type is set in Satoshi. The book covers logo construction, sizes and misuse, then shows the brand on t-shirts, tanks, bottles, yoga mats, bags, hang tags, boxes, a campaign, the website, an app and a smartwatch.",
       "services": [
         "Brand strategy",
         "Logo and emblem",
@@ -204,10 +204,10 @@
         "identity"
       ],
       "featured": true,
-      "summary": "A bilingual product catalogue and packaging presentation for a Canadian luxury skincare and body-ritual brand.",
-      "overview": "Pure & Bold Beauty makes body rituals and skincare inspired by Moroccan hammam traditions and backed by science. The brief was a 31-page English and French catalogue that introduces the brand, its founder and its two collections to spas, salons and retail partners.",
-      "challenge": "The book had to feel as premium as the products, work in two languages page for page, and explain scrubs, body milks, oils and creams clearly enough for professional buyers.",
-      "solution": "A warm sand and cream layout with deep red product photography, a refined serif with a handwritten script accent, airy editorial spreads and a consistent product-profile system. Each English spread has a matching French spread, ending with formats, partnership details and the quality philosophy.",
+      "summary": "31-page product catalogue in English and French for a Canadian skincare brand.",
+      "overview": "Pure & Bold Beauty makes body scrubs, body milks, oils and creams based on Moroccan hammam traditions. We designed the catalogue the brand sends to spas, salons and shops, in English and French.",
+      "challenge": "It needed to look as premium as the products, run page for page in two languages, and explain each product clearly for buyers.",
+      "solution": "Sand and cream pages with the red product photos, a thin serif for headings, a script accent and a repeating layout for each product. Every English spread has a French version. The book ends with formats, partner details and how the products are made.",
       "services": [
         "Catalogue design",
         "Packaging presentation",
@@ -246,12 +246,6 @@
           "name": "Monthy Script",
           "role": "Handwritten accents"
         }
-      ],
-      "values": [
-        "Luxury",
-        "Natural",
-        "Science-led",
-        "Ritual"
       ],
       "cover": "assets/work/pure-and-bold/cover.jpg",
       "gallery": [
@@ -329,10 +323,10 @@
         "packaging"
       ],
       "featured": true,
-      "summary": "A complete visual identity and 45-page brand book for a Lahore zipper manufacturer, built on precision.",
-      "overview": "AF7 makes zippers and fastening components for garment makers and apparel brands. The identity is built around strength, clarity and quiet confidence, so the logo, colour, typography and graphic language work as one voice from a carton label to the company website.",
-      "challenge": "Industrial suppliers often look generic or dated. AF7 needed to feel as precise as the parts it makes and hold together across factory packaging, workwear, stationery and digital.",
-      "solution": "A heavy, compact AF7 wordmark with a strict construction grid and clear-space rules, a navy-led palette with steel and mist neutrals, Montserrat and Poppins for type, a zipper-tooth pattern and a line icon set. The guidelines cover packaging on three board types, polybags, workwear, stationery, the website and the app.",
+      "summary": "Logo, identity and a 45-page brand book for a zipper manufacturer in Lahore.",
+      "overview": "AF7 makes zippers and fastening parts for garment factories and clothing brands. The work covers the logo, colours, fonts, pattern and icons, and how they are used on cartons, workwear, stationery and the website.",
+      "challenge": "Industrial suppliers often have dated or generic branding. AF7 wanted to look as precise as the parts it makes, on factory cartons as well as online.",
+      "solution": "A heavy, compact AF7 wordmark drawn on a grid with clear-space rules, a navy palette with steel and light grey, Montserrat and Poppins for type, a pattern taken from zipper teeth and a line icon set. The book shows packaging on three board types, polybags, workwear, stationery, the website and the app.",
       "services": [
         "Logo design",
         "Visual identity",
@@ -488,10 +482,10 @@
       "categories": [
         "packaging"
       ],
-      "summary": "Stand-up pouch packaging for a sleep-support mushroom hot chocolate, in a dreamy night edition and a bold black edition.",
-      "overview": "Inner Elevate's hot chocolate blends organic cacao with five adaptogenic mushrooms, magnesium and L-theanine to help people wind down at night. The pouch needed to sell that calm on a crowded shelf.",
-      "challenge": "Functional wellness products often look clinical. This one had to feel cosy and premium, carry a lot of label information, and still read clearly from the shelf.",
-      "solution": "Two directions on a 160 by 230 mm pouch. The night edition uses deep indigo, a moon, stars and an illustrated mushroom. The black edition uses a line-art cacao and mushroom ornament in copper with bold orange type. Both share a clear hierarchy, ingredient tags, icon badges and a full nutrition panel.",
+      "summary": "Pouch packaging for a mushroom hot chocolate, in a purple and a black version.",
+      "overview": "Inner Elevate's hot chocolate mixes cacao with five mushrooms, magnesium and L-theanine to help with sleep. We designed the stand-up pouch in two versions.",
+      "challenge": "Wellness products can look like medicine. This had to look cosy and premium, fit a lot of label information, and still read well on the shelf.",
+      "solution": "The purple version uses a moon, stars and a drawn mushroom. The black version uses a copper line pattern of cacao pods and mushrooms with orange type. Both have ingredient tags, icons and a full nutrition panel on a 160 by 230 mm pouch.",
       "services": [
         "Packaging design",
         "Dieline artwork",
@@ -526,12 +520,6 @@
           "name": "Helvetica Neue",
           "role": "Label and nutrition text"
         }
-      ],
-      "values": [
-        "Calm",
-        "Natural",
-        "Trusted",
-        "Indulgent"
       ],
       "cover": "assets/work/mushroom-cocoa/cover.jpg",
       "gallery": [
@@ -580,10 +568,10 @@
       ],
       "featured": true,
       "concept": true,
-      "summary": "A quiet-luxury identity for a private bank and family office, built on a raven drawn with a compass.",
-      "overview": "Corvane is a self-initiated concept for a private wealth bank and family office in Lahore, Dubai and London. The project covers the whole identity, from the symbol and its geometry to stationery, a brass client card, a banking app and a brand standards book.",
-      "challenge": "Private banks tend to look either old and ornate or interchangeable with retail fintech. The goal was an identity as precise as Swiss engineering and as calm as an old banking hall, with a mark that still works at 16 pixels and in one colour.",
-      "solution": "The symbol is a single initial C that is also a raven in profile, built only from circles and horizontals, with its beak resting on a horizon line that runs through every application. Ledger green, ivory and brushed brass, Cormorant Garamond with Inter, and a measured tone of voice carry it from foil-stamped paper to the app.",
+      "summary": "Identity concept for a private bank. The logo is a C that is also a raven.",
+      "overview": "Corvane is a self-initiated concept for a private bank and family office with offices in Lahore, Dubai and London. It covers the symbol, stationery, a metal client card, a banking app and a standards book.",
+      "challenge": "Private banks usually look either old-fashioned or like every other finance app. The mark also had to work at 16 pixels and in one colour.",
+      "solution": "The symbol is a letter C drawn as a raven's head, built only from circles and straight lines. Deep green, ivory and brass, with Cormorant Garamond and Inter, are used on foil-stamped paper, the client card and the app.",
       "services": [
         "Brand strategy",
         "Logo design",
@@ -663,10 +651,10 @@
       "categories": [
         "packaging"
       ],
-      "summary": "Retail box packaging for a rechargeable mini air pump, in two black finishes.",
-      "overview": "The JenniBag Air Pump Pro is a small USB-C pump for vacuum storage bags, inflatable beds, sofas and pool rings. It sells in retail and online, so the box has to show the product and its uses at a glance.",
-      "challenge": "A small, technical product with many uses and certification marks, all to fit on a compact tuck-end box without looking cluttered.",
-      "solution": "A matte black box with the pump shown at full size on the front, a clear Tiny and Fast headline, a parts diagram on the side panel and a Multiple Uses icon grid on the back. Design 1 uses a bold sans headline; the second design uses a lighter, more premium serif with a line-drawn product view.",
+      "summary": "Box packaging for a small rechargeable air pump, two designs.",
+      "overview": "The JenniBag Air Pump Pro is a small USB-C pump for vacuum storage bags, air beds, inflatable sofas and pool rings. The box sells it in shops and online.",
+      "challenge": "A small box had to fit the product photo, the uses, a parts diagram and the certification marks without looking crowded.",
+      "solution": "A matte black box with the pump at full size on the front, a parts diagram on the side and an icon grid of uses on the back. Design 1 has a bold sans headline. Design 2 has a lighter serif and a line drawing of the pump.",
       "services": [
         "Packaging design",
         "Dieline artwork",
@@ -702,11 +690,6 @@
           "role": "Product line accents"
         }
       ],
-      "values": [
-        "Compact",
-        "Powerful",
-        "Practical"
-      ],
       "cover": "assets/work/jennibag/cover.jpg",
       "gallery": [
         {
@@ -741,10 +724,10 @@
       ],
       "featured": true,
       "concept": true,
-      "summary": "A luxury coffee brand built around slow craft, origin stories and an editorial online shop.",
-      "overview": "Ember & Oak is a concept specialty-coffee brand shaped around carefully sourced beans and the rituals that make coffee memorable. Warm natural tones, refined typography and an editorial visual language make it feel timeless, tactile and quietly premium.",
-      "challenge": "Specialty coffee is crowded with near-identical kraft-paper looks. The brief was to signal craft and origin without clichés, and carry that feeling from a bag on the shelf to a product page on a phone.",
-      "solution": "A flexible mark and an origin-led packaging system where each bean, from Brazil, Colombia and Ethiopia, gets its own character inside one family. The website turns the physical identity into an editorial journey through story, packaging, craft and signature blends.",
+      "summary": "Concept coffee brand with packaging for three origins and an online shop.",
+      "overview": "Ember & Oak is a concept specialty coffee brand. The project includes the logo, colours, type, bag designs for each origin, a café look and the online shop.",
+      "challenge": "A lot of specialty coffee uses the same kraft-paper look. This brand needed to show where each bean comes from and still look like one range.",
+      "solution": "One logo system with a separate bag design for Brazil, Colombia and Ethiopia, each with its own colour and details. The website uses the same photos and type as the packaging, with pages for the story, the bags, brewing and the blends.",
       "services": [
         "Brand strategy",
         "Logo system",
@@ -815,10 +798,10 @@
       "categories": [
         "packaging"
       ],
-      "summary": "A five-product supplement label system for a gut-health brand, with one layout and a different hero for each formula.",
-      "overview": "Biome Essence sells probiotics, ACV gummies, metabolism support, berberine and a colon cleanse. Each bottle needed its own identity while the range still reads as one family on the shelf.",
-      "challenge": "Supplement labels carry dense legal text and supplement facts panels, and five products in one range can easily blur together.",
-      "solution": "A deep green wrap label with a sweeping curve, a seal-style badge and a light botanical pattern. Each product gets its own name, a short promise and a small hero image, while the left and right panels keep usage, cautions and supplement facts in the same place on every bottle.",
+      "summary": "Labels for five supplements, one layout across the range.",
+      "overview": "Biome Essence sells a probiotic, apple cider vinegar gummies, a metabolism formula, berberine and a colon cleanse. We designed the bottle labels for all five.",
+      "challenge": "Supplement labels carry a lot of legal text and a facts panel, and five products in one range can look the same.",
+      "solution": "A dark green label with a curved top, a round badge and a light leaf pattern. Each product has its own name, a short line and a small image. Directions, warnings and supplement facts sit in the same place on every bottle.",
       "services": [
         "Label design",
         "Product line system",
@@ -848,11 +831,6 @@
           "name": "Myriad Pro",
           "role": "Label text"
         }
-      ],
-      "values": [
-        "Clean",
-        "Trustworthy",
-        "Natural"
       ],
       "cover": "assets/work/biome-essence/cover.jpg",
       "gallery": [
@@ -886,10 +864,10 @@
         "identity"
       ],
       "concept": true,
-      "summary": "A monochrome identity system built on typography, structure and restraint.",
-      "overview": "Mono is a contemporary identity focused on simplicity, structure and recognition, designed to stay consistent across stationery, packaging, signage and social media.",
-      "challenge": "A minimal identity can easily become anonymous. The challenge was to make restraint recognisable without relying on colour or decoration.",
-      "solution": "A constructed mark on a precise grid, a black, white and red palette, typography that balances personality with clarity, and guidelines that run naturally from business cards to billboards.",
+      "summary": "Black, white and red identity concept, from business cards to a billboard.",
+      "overview": "Mono is a concept identity in black, white and red, designed for stationery, packaging, a shop front and social media.",
+      "challenge": "Minimal brands can end up looking like nobody. Mono had to be recognisable with very little colour or decoration.",
+      "solution": "A mark drawn on a grid, a three-colour palette, clear type and simple guidelines, applied to business cards, letterhead, packaging, a storefront, a billboard and social posts.",
       "services": [
         "Brand strategy",
         "Logo design",
@@ -963,10 +941,10 @@
         "social"
       ],
       "concept": true,
-      "summary": "A character-led lifestyle identity that turns a personality into a complete content system.",
-      "overview": "Noorah is a playful mascot identity that gives a lifestyle brand a recognisable personality, visual voice and emotional connection across beauty, fashion and self-care content.",
-      "challenge": "Creator brands need to feel personal while staying consistent across hundreds of posts, thumbnails and products.",
-      "solution": "An expressive character mark, a soft but refined visual language, photography direction, social and YouTube templates, and merchandise: a system that lets the personality scale.",
+      "summary": "Mascot and identity concept for a beauty and lifestyle creator.",
+      "overview": "Noorah is a concept identity for a lifestyle creator, built around an illustrated character. It covers beauty, fashion and self-care content.",
+      "challenge": "A creator brand has to feel personal but look the same across hundreds of posts, thumbnails and products.",
+      "solution": "A character logo, soft colours and type, a photo moodboard, social and YouTube templates and merchandise designs.",
       "services": [
         "Mascot design",
         "Brand identity",
@@ -1024,10 +1002,10 @@
         "social"
       ],
       "concept": true,
-      "summary": "WA Creative Solution's own social launch campaign, built around a line every shop owner knows.",
-      "overview": "An in-house social campaign for Instagram, Facebook and LinkedIn. The idea is simple: a shop closes at night, a good website doesn't. It runs as a template system of feed posts, carousels, stories and link ads, built around four content pillars.",
-      "challenge": "Small businesses scroll past agency ads about digital transformation. The campaign had to sound like the people it is for, show real proof instead of claims, and be easy to produce every week.",
-      "solution": "A Roman Urdu hook, \"Dukaan raat ko band hoti hai. Website nahi.\", with plain English underneath. Four pillars rotate through the feed: real work, checklists owners save, process steps and local moments like Eid. Every format shares one grid, corner marks, Montserrat headlines and a single red word.",
+      "summary": "Social media campaign for WA Creative Solution, written for local shop owners.",
+      "overview": "Our own campaign for Instagram, Facebook and LinkedIn. The idea is that a shop closes at night but its website stays open. It is a set of templates for posts, carousels, stories and link ads.",
+      "challenge": "Small business owners ignore agency ads full of jargon. The posts had to talk the way they talk, show real work, and be quick to make every week.",
+      "solution": "The headline is in Roman Urdu, \"Dukaan raat ko band hoti hai. Website nahi.\", with English underneath. Posts rotate between real projects, checklists, our process and local moments like Eid. All sizes share one grid, Montserrat headlines and one red word.",
       "services": [
         "Campaign concept",
         "Social media design",
@@ -1071,90 +1049,90 @@
       "slug": "spirit",
       "title": "SPIRIT",
       "discipline": "E-commerce, activewear",
-      "summary": "An activewear storefront, Designed for Movement, with shop, collections and product pages.",
+      "summary": "Online shop for the Spirit activewear brand, with collections and product pages.",
       "url": "https://spirit-weld-zeta.vercel.app"
     },
     {
       "slug": "apparel-fastener",
       "title": "Apparel Fastener",
       "discipline": "Corporate website, 3D and motion",
-      "summary": "A corporate website for a garment-accessories manufacturer, with immersive motion and product storytelling.",
+      "summary": "Company website for a garment accessories manufacturer, with 3D and motion.",
       "url": "https://apparel-fastener.vercel.app"
     },
     {
       "slug": "af7",
       "title": "AF7",
       "discipline": "Brand website, product catalogue",
-      "summary": "The product-led website for AF7, the zipper manufacturer whose identity is above: Precision in Every Detail.",
+      "summary": "Product website for AF7, the zipper maker shown above.",
       "url": "https://af7-tau.vercel.app"
     },
     {
       "slug": "cellcraft",
       "title": "CellCraft",
       "discipline": "E-commerce, smartphone store",
-      "summary": "A premium storefront for iPhone and Samsung Galaxy phones, with full specs, prices in Rand and ordering on WhatsApp.",
+      "summary": "Online phone shop for iPhone and Samsung, with specs, prices in Rand and WhatsApp ordering.",
       "url": "https://cell-craft.vercel.app"
     },
     {
       "slug": "restaurant-os",
       "title": "RestaurantOS",
       "discipline": "SaaS web app, restaurant POS",
-      "summary": "A multi-branch restaurant POS and management platform, sold as a per-branch subscription.",
+      "summary": "Point of sale and management software for restaurants with more than one branch.",
       "url": "https://restaurant-pos-rms-psi.vercel.app"
     },
     {
       "slug": "zama-zama",
       "title": "Zama Zama Auto Fitment",
       "discipline": "Service website, bookings",
-      "summary": "A tyre and wheel-care centre in Cape Town, with tyre search, a featured-tyre catalogue and online bay booking.",
+      "summary": "Website for a tyre and wheel shop in Cape Town, with tyre search and online booking.",
       "url": "https://zamazama.site"
     },
     {
       "slug": "br9-cafe",
       "title": "BR9 Cafe & Restaurant",
       "discipline": "Restaurant website, ordering",
-      "summary": "A dark, editorial website for a cafe in Rawalpindi, with the menu, family deals and ordering on WhatsApp.",
+      "summary": "Website for a cafe in Rawalpindi, with the menu, family deals and WhatsApp ordering.",
       "url": "https://br9-cafe-restaurant.vercel.app"
     },
     {
       "slug": "burger-in-town",
       "title": "Burger in Town",
       "discipline": "Restaurant website, 3D and motion",
-      "summary": "Fresh burgers, loaded fries and unforgettable deals: an appetite-first restaurant website.",
+      "summary": "Restaurant website with the menu, deals and 3D food.",
       "url": "https://burger-in-town.vercel.app"
     },
     {
       "slug": "nexframe-systems",
       "title": "Nexframe Systems",
       "discipline": "Corporate website, architecture",
-      "summary": "A website for an aluminium windows, doors and curtain-wall systems company.",
+      "summary": "Website for an aluminium windows, doors and curtain wall company.",
       "url": "https://nexframe-nu.vercel.app"
     },
     {
       "slug": "alhaytham-school",
       "title": "Al-Haytham School",
       "discipline": "School website, management portal",
-      "summary": "A school website with admin and student portals for attendance, fees, results and notices.",
+      "summary": "School website with admin and student portals for attendance, fees, results and notices.",
       "url": "https://alhaytham-school.vercel.app"
     },
     {
       "slug": "arjumands-salon",
       "title": "Arjumand's PTV Salon",
       "discipline": "Beauty salon website",
-      "summary": "An elegant salon website where beauty is an experience, with services and bookings."
+      "summary": "Website for a beauty salon, with services and bookings."
     },
     {
       "slug": "heartwood-tree-co",
       "title": "Heartwood Tree Co.",
       "discipline": "Service website, arborists",
-      "summary": "A website for certified arborists: save what can be saved, remove the rest safely."
+      "summary": "Website for a team of certified tree surgeons."
     }
   ],
   "uiConcepts": [
     {
       "title": "Veyra GT-1",
       "discipline": "Launch site and configurator, concept",
-      "summary": "A launch experience for a fictional electric grand tourer: Silence, at speed. A scroll-choreographed reveal, a live configurator and a mobile showroom.",
+      "summary": "Launch website concept for a made-up electric sports car, with a scroll reveal, a car configurator and a mobile version.",
       "images": [
         "assets/work/veyra/02-home.webp",
         "assets/work/veyra/04-configurator.webp",
@@ -1165,7 +1143,7 @@
     {
       "title": "SPIRIT shop and app",
       "discipline": "Web and app direction",
-      "summary": "The Spirit identity carried into the online shop, a mobile app and a smartwatch face. The live storefront is in the websites list below.",
+      "summary": "The Spirit identity on the online shop, a mobile app and a smartwatch face. The live shop is listed below.",
       "images": [
         "assets/work/spirit/website.jpg",
         "assets/work/spirit/app.jpg",
@@ -1177,7 +1155,7 @@
     {
       "title": "Corvane private banking",
       "discipline": "App UI direction, concept",
-      "summary": "Welcome and portfolio screens with an app icon tested at every size.",
+      "summary": "Welcome and portfolio screens, and the app icon at every size.",
       "images": [
         "assets/work/corvane/06-digital.webp"
       ],
@@ -1186,7 +1164,7 @@
     {
       "title": "AF7 web and app",
       "discipline": "Web and app direction",
-      "summary": "How the AF7 identity carries into the website and a mobile app, from the brand guidelines.",
+      "summary": "The AF7 website and mobile app screens from the brand guidelines.",
       "images": [
         "assets/work/af7/website.jpg",
         "assets/work/af7/app.jpg"
@@ -1196,7 +1174,7 @@
     {
       "title": "Ember & Oak shop",
       "discipline": "E-commerce UI, concept",
-      "summary": "An editorial coffee shop online: hero, origin story, packaging, craft and signature blends.",
+      "summary": "Online coffee shop pages: home, story, packaging, brewing and blends.",
       "images": [
         "assets/work/ember-and-oak/01-navbar-hero.webp",
         "assets/work/ember-and-oak/03-navbar-packaging.webp",

@@ -135,7 +135,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .service h3 { font-size: 1.25rem; font-weight: 700; }
 .service p { color: #cfcabf; font-size: .95rem; }
 .service ul { margin: 6px 0 0; padding: 0; list-style: none; color: var(--mute); font-size: .88rem; display: grid; gap: 6px; }
-.service li::before { content: ""; display: inline-block; width: 12px; height: 1px; background: var(--gold); margin-right: 10px; vertical-align: middle; }
+.service li::before { content: none; }
 @media (max-width: 980px) { .services { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 600px) { .services { grid-template-columns: 1fr; } }
 

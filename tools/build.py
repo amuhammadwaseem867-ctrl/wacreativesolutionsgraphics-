@@ -104,8 +104,8 @@ def contact():
     return f'''<section class="contact" id="contact" aria-labelledby="contact-title">
   <div class="wrap contact-grid">
     <div class="contact-intro">
-      <h2 id="contact-title" class="reveal">Let's build your brand.</h2>
-      <p>Tell me about your business and what you need. You'll get a reply with ideas, a timeline and a written quote.</p>
+      <h2 id="contact-title" class="reveal">Start a project</h2>
+      <p>Send me a few lines about your business and what you need. I'll reply with a price and a timeline.</p>
       <div class="contact-lines">
         <div class="contact-line"><span class="lbl">Email</span><span class="val" id="email-val">{SITE['email']}</span><button type="button" class="copy" id="copy-email">Copy</button></div>
         {phones}
@@ -170,19 +170,19 @@ def home():
   <h3>{e(w['title'])}</h3><p class="disc">{e(w['discipline'])}</p><p>{e(w['summary'])}</p>{link}
 </li>''')
     services = [
-        ("Brand identity", "A complete look for your business, from strategy to a system anyone on your team can use.", ["Logo suite", "Colour and typography", "Brand guidelines", "Tone of voice"]),
-        ("Logo design", "A mark that works on a sign, a phone screen and a stamp, with every file you need.", ["Concept directions", "Construction and clear space", "Colour and one-colour versions", "AI, SVG, PDF and PNG files"]),
-        ("Packaging", "Cartons, labels, bags and cups designed for the shelf and prepared for the printer.", ["Dielines", "Labels and sleeves", "Carton and polybag artwork", "3D mockups"]),
-        ("Business cards and stationery", "Cards people keep, with letterheads, envelopes and email signatures that match.", ["Business cards", "Letterhead and envelope", "Compliments slip", "Print-ready CMYK files"]),
-        ("Flyers, print and social", "Campaigns with one clear message, sized for print and for every feed.", ["Flyers and posters", "Menus and brochures", "Social post templates", "Stories and ads"]),
-        ("UI/UX design", "Websites and apps that carry your brand properly, from first wireframe to final screens.", ["Website design", "Mobile app screens", "Design systems", "Prototypes"]),
+        ("Brand identity", "Logo, colours, fonts and a guideline book your team can follow.", ["Logo suite", "Colour and typography", "Brand guidelines", "Tone of voice"]),
+        ("Logo design", "A logo that works on a sign, a phone screen and a stamp, with all the files.", ["Concept directions", "Construction and clear space", "Colour and one-colour versions", "AI, SVG, PDF and PNG files"]),
+        ("Packaging", "Boxes, labels, pouches and cups, with print-ready dielines.", ["Dielines", "Labels and sleeves", "Carton and polybag artwork", "3D mockups"]),
+        ("Business cards and stationery", "Business cards, letterheads, envelopes and email signatures in one style.", ["Business cards", "Letterhead and envelope", "Compliments slip", "Print-ready CMYK files"]),
+        ("Flyers, print and social", "Flyers, posters, menus and social posts in every size you need.", ["Flyers and posters", "Menus and brochures", "Social post templates", "Stories and ads"]),
+        ("UI/UX design", "Website and app screens that match your brand, from wireframes to final design.", ["Website design", "Mobile app screens", "Design systems", "Prototypes"]),
     ]
     sv = "".join(f'<article class="service reveal"><h3>{e(t)}</h3><p>{e(d)}</p><ul>{"".join(f"<li>{e(x)}</li>" for x in li)}</ul></article>' for t, d, li in services)
-    steps = [("Discover", "We talk about your business, audience and goals, and agree a written scope."),
-             ("Strategize", "Research, positioning and a clear creative direction before any drawing starts."),
-             ("Design", "Concepts shown on real items like packaging, signs and screens, then refined with you."),
-             ("Build", "The full system: logo files, guidelines, print artwork and digital assets."),
-             ("Launch", "Final files handed over, organised and ready for printers and developers. You own the result.")]
+    steps = [("Discover", "We talk about your business and what you need, then agree the scope and price."),
+             ("Strategize", "I look at your market and competitors and set the direction."),
+             ("Design", "You see concepts on real mockups and we revise them together."),
+             ("Build", "Logo files, guidelines, print artwork and social and web files."),
+             ("Launch", "You get all final files, ready for the printer and developer. You own them.")]
     st = "".join(f'<li class="step reveal"><b aria-hidden="true">{i+1}</b><h3>{e(t)}</h3><p>{e(d)}</p></li>' for i, (t, d) in enumerate(steps))
     chips = '<button type="button" class="chip" data-filter="all" aria-pressed="true">All</button>' + "".join(
         f'<button type="button" class="chip" data-filter="{k}" aria-pressed="false">{v}</button>' for k, v in CATS.items())
@@ -194,10 +194,10 @@ def home():
   <canvas class="hexfield" id="hexfield" aria-hidden="true"></canvas>
   {mark_outline()}
   <div class="wrap hero-inner">
-    <p class="hero-kicker"><i></i>{SITE['person']}, graphic designer. Available for selected projects.</p>
-    <h1 class="split">Brand identities <em>people remember.</em></h1>
+    <p class="hero-kicker"><i></i>Graphic designer. Rawalpindi and Cape Town.</p>
+    <h1 class="split">Logos, brands <em>and packaging.</em></h1>
     <div class="hero-row">
-      <p class="hero-lede">I design logos, identity systems, packaging, business cards, flyers and interfaces at WA Creative Solution, for businesses that want to look as good as the work they do.</p>
+      <p class="hero-lede">I'm Muhammad Waseem Akram. I design logos, brand guidelines, packaging, business cards, flyers and websites at WA Creative Solution.</p>
       <div class="hero-actions"><a class="btn magnetic" href="#work">View the work</a><a class="btn btn-line magnetic" href="#contact">Start a project</a></div>
     </div>
     <div class="hero-reel">{reel}</div>
@@ -215,24 +215,24 @@ def home():
 
 <section class="section" id="uiux" aria-labelledby="ui-title">
   <div class="wrap">
-    <div class="section-head"><h2 id="ui-title" class="reveal">UI/UX design</h2><p class="section-note">Interfaces designed as part of a brand, so the app and the website feel like the same company as the business card.</p></div>
+    <div class="section-head"><h2 id="ui-title" class="reveal">UI/UX design</h2><p class="section-note">Website and app design, usually as part of a brand project.</p></div>
     <div class="ui-list">{"".join(ui)}</div>
     <h3 class="sub-head reveal">Websites, designed and live</h3>
-    <p class="section-note">Designed and built at WA Creative Solution. Each one is online now.</p>
+    <p class="section-note">Websites we designed and built. All of them are live.</p>
     <ul class="web-grid">{"".join(web)}</ul>
   </div>
 </section>
 
 <section class="section" id="services" aria-labelledby="services-title">
   <div class="wrap">
-    <div class="section-head"><h2 id="services-title" class="reveal">What I can make for you</h2><p class="section-note">Written scope, defined revisions and clear pricing before any work starts.</p></div>
+    <div class="section-head"><h2 id="services-title" class="reveal">Services</h2><p class="section-note">You get a written scope and price before work starts.</p></div>
     <div class="services">{sv}</div>
   </div>
 </section>
 
 <section class="section" id="process" aria-labelledby="process-title">
   <div class="wrap">
-    <div class="section-head"><h2 id="process-title" class="reveal">How a project runs</h2><p class="section-note">Five steps, with your sign-off at each one.</p></div>
+    <div class="section-head"><h2 id="process-title" class="reveal">How a project runs</h2><p class="section-note">You approve each step before we move on.</p></div>
     <ol class="steps">{st}</ol>
   </div>
 </section>
@@ -242,8 +242,8 @@ def home():
     <div class="about-mark reveal-img">{mark("spin")}</div>
     <div class="about-copy">
       <h2 id="about-title" class="reveal">Hi, I'm Waseem.</h2>
-      <p>I'm {SITE['person']}, a graphic designer and the founder of WA Creative Solution, a creative studio working from Rawalpindi and Cape Town with clients around the world.</p>
-      <p>I believe a brand should do a job. A logo has to be remembered, a package has to be picked up and a guideline has to be easy enough that people actually follow it. Every project here was designed with that job in mind, down to the dielines and the Pantone references.</p>
+      <p>I'm {SITE['person']}, a graphic designer and the founder of WA Creative Solution. We work from Rawalpindi and Cape Town, with clients in Pakistan, South Africa and abroad.</p>
+      <p>I mostly design logos, brand guidelines and packaging, and I prepare everything for print myself, from dielines to Pantone colours.</p>
       <dl class="facts">
         <div><dt>Studio</dt><dd>WA Creative Solution</dd></div>
         <div><dt>Based in</dt><dd>Rawalpindi, Pakistan and Cape Town, South Africa</dd></div>
@@ -284,7 +284,7 @@ def case(p, nxt):
             if p.get("fonts"):
                 ft += '<h2>Typography</h2><ul class="fonts">' + "".join(f'<li><b>{e(f["name"])}</b><span>{e(f["role"])}</span></li>' for f in p["fonts"]) + "</ul>"
             if p.get("values"):
-                ft += ('<h2 style="margin-top:28px">Brand personality</h2>' if p.get("fonts") else "<h2>Brand personality</h2>") + '<ul class="values">' + "".join(f"<li>{e(v)}</li>" for v in p["values"]) + "</ul>"
+                ft += ('<h2 style="margin-top:28px">Brand values</h2>' if p.get("fonts") else "<h2>Brand values</h2>") + '<ul class="values">' + "".join(f"<li>{e(v)}</li>" for v in p["values"]) + "</ul>"
             ft += "</div>"
         system = f'<section class="wrap case-system reveal" aria-label="Brand system">{sw}{ft}</section>'
     gal = "".join(
@@ -313,7 +313,7 @@ def case(p, nxt):
 <section class="wrap gallery" aria-label="Project gallery">{gal}</section>
 <div class="wrap">
   <a class="next" href="{nxt['slug']}.html" data-cursor="Next"><small>Next project</small><strong>{e(nxt['title'])}</strong></a>
-  <div class="case-cta"><p>Want something like this for your brand?</p><a class="btn magnetic" href="{pre}index.html#contact">Start a project</a></div>
+  <div class="case-cta"><p>Need packaging or a brand like this?</p><a class="btn magnetic" href="{pre}index.html#contact">Start a project</a></div>
 </div>
 </main>
 <dialog class="lightbox" id="lightbox" aria-label="Image viewer">

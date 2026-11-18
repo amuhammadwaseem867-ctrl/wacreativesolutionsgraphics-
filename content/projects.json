@@ -475,6 +475,119 @@
       ]
     },
     {
+      "slug": "af7-packaging",
+      "title": "AF7 Packaging System",
+      "short": "AF7 Packaging",
+      "discipline": "Packaging design, dielines",
+      "categories": [
+        "packaging"
+      ],
+      "summary": "Cartons, poly bags and stickers for AF7 zippers, with print-ready dielines. 23 pages.",
+      "overview": "After the AF7 identity, we designed the packaging the factory ships in: three kraft carton sizes, four clear poly bag sizes and two identification stickers, with a 23-page spec book for the printer.",
+      "challenge": "Packaging for an industrial supplier has to be cheap to print and quick to pack, and still look like the brand on a warehouse shelf.",
+      "solution": "Natural kraft cartons and clear LLD poly bags printed in one colour, AF7 Navy. Each carton panel has a set job: logo on the long sides, size and handling on one end, a sticker area on the other and the monogram pattern on the flaps. The same layout scales to every carton and bag size. The book includes the dielines, sticker templates and the print spec.",
+      "services": [
+        "Carton design",
+        "Poly bag design",
+        "Sticker and label design",
+        "Dielines",
+        "Print specification"
+      ],
+      "palette": [
+        {
+          "name": "AF7 Navy",
+          "hex": "#243146"
+        },
+        {
+          "name": "Kraft",
+          "hex": "#C49A6C"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "fonts": [
+        {
+          "name": "Montserrat",
+          "role": "Headings and labels"
+        }
+      ],
+      "cover": "assets/work/af7-packaging/cover.jpg",
+      "gallery": [
+        {
+          "src": "assets/work/af7-packaging/overview.jpg",
+          "caption": "One carton, one bag, one label system",
+          "half": true
+        },
+        {
+          "src": "assets/work/af7-packaging/carton-sizes.jpg",
+          "caption": "Three carton sizes on one board",
+          "half": true
+        },
+        {
+          "src": "assets/work/af7-packaging/carton-panels.jpg",
+          "caption": "What goes on each panel"
+        },
+        {
+          "src": "assets/work/af7-packaging/dieline-small.jpg",
+          "caption": "Dieline: 15 × 10 × 6 in"
+        },
+        {
+          "src": "assets/work/af7-packaging/dieline-medium.jpg",
+          "caption": "Dieline: 18 × 12 × 8 in"
+        },
+        {
+          "src": "assets/work/af7-packaging/dieline-large.jpg",
+          "caption": "Dieline: 20 × 11 × 12 in"
+        },
+        {
+          "src": "assets/work/af7-packaging/cartons-photo.jpg",
+          "caption": "Printed cartons"
+        },
+        {
+          "src": "assets/work/af7-packaging/carton-detail.jpg",
+          "caption": "Carton logo and sticker"
+        },
+        {
+          "src": "assets/work/af7-packaging/polybag-sizes.jpg",
+          "caption": "Four poly bag sizes"
+        },
+        {
+          "src": "assets/work/af7-packaging/polybag-65x115.jpg",
+          "caption": "Poly bag, 6.5 × 11.5 in",
+          "half": true
+        },
+        {
+          "src": "assets/work/af7-packaging/polybag-65x88.jpg",
+          "caption": "Poly bag, 6.5 × 8.8 in",
+          "half": true
+        },
+        {
+          "src": "assets/work/af7-packaging/polybag-layout.jpg",
+          "caption": "One layout for every bag size"
+        },
+        {
+          "src": "assets/work/af7-packaging/product-sticker.jpg",
+          "caption": "Product sticker",
+          "half": true
+        },
+        {
+          "src": "assets/work/af7-packaging/carton-sticker.jpg",
+          "caption": "Carton packing sticker",
+          "half": true
+        },
+        {
+          "src": "assets/work/af7-packaging/print-spec.jpg",
+          "caption": "Print specification"
+        },
+        {
+          "src": "assets/work/af7-packaging/closing.jpg",
+          "caption": "Closing page"
+        }
+      ]
+    },
+    {
       "slug": "mushroom-cocoa",
       "title": "Inner Elevate Mushroom Hot Cocoa",
       "short": "Mushroom Cocoa",

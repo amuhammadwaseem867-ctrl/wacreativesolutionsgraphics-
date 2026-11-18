@@ -1,4 +1,4 @@
-/* WA Creative Solution — graphics portfolio.
+/* WA Creative Solution graphics portfolio.
    Layout: the studio's black stage, with gold in place of the agency site's red.
    Work is shown large and left-aligned; case pages read like a brand book. */
 :root {
@@ -193,7 +193,7 @@ a.val:hover { text-decoration: underline; }
 .site-footer { padding-block: 28px; font-size: .85rem; color: var(--mute); }
 .footer-inner { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
 
-/* ---------- case study pages ---------- */
+/* case study pages */
 .case-hero { padding-block: clamp(36px, 6vw, 80px) 0; }
 .crumb { color: var(--mute); font-size: .88rem; text-decoration: none; }
 .crumb:hover { color: var(--paper); }

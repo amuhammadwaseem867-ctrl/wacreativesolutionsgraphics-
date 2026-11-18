@@ -12,7 +12,7 @@
   window.addEventListener("error", showAll);
   setTimeout(showAll, 6000);
 
-  /* ---- split headlines into words ---- */
+  /* split headlines into words */
   $$(".split").forEach(function (h) {
     var i = 0;
     var wrap = function (node) {
@@ -38,7 +38,7 @@
     wrap(h);
   });
 
-  /* ---- page curtain ---- */
+  /* page curtain */
   var markSvg = document.querySelector(".logo svg");
   if (!reduce) {
     var curtain = document.createElement("div");
@@ -60,7 +60,7 @@
     window.addEventListener("pageshow", function (e) { if (e.persisted) curtain.classList.remove("go"); });
   }
 
-  /* ---- reveals ---- */
+  /* reveals */
   var targets = $$(".reveal, .reveal-img, .split");
   // stagger siblings that enter together
   $$(".work-grid, .web-grid, .services, .steps, .gallery, .hero-reel, .ui-shots, .case-story").forEach(function (g) {
@@ -74,7 +74,7 @@
     targets.forEach(function (t) { io.observe(t); });
   }
 
-  /* ---- scroll progress + parallax ---- */
+  /* scroll progress + parallax */
   var bar = document.querySelector(".progress");
   var par = $$(".parallax");
   var ticking = false;
@@ -94,7 +94,7 @@
   window.addEventListener("scroll", onScroll, { passive: true }); onScroll();
 
   if (fine && !reduce) {
-    /* ---- custom cursor ---- */
+    /* custom cursor */
     var cur = document.querySelector(".cursor");
     if (cur) {
       var label = cur.querySelector("span");
@@ -106,7 +106,7 @@
       }, { passive: true });
       document.addEventListener("pointerleave", function () { cur.style.setProperty("--s", 0); });
     }
-    /* ---- magnetic buttons ---- */
+    /* magnetic buttons */
     $$(".magnetic").forEach(function (b) {
       b.addEventListener("pointermove", function (e) {
         var r = b.getBoundingClientRect();
@@ -114,7 +114,7 @@
       });
       b.addEventListener("pointerleave", function () { b.style.transform = ""; });
     });
-    /* ---- tilt cards ---- */
+    /* tilt cards */
     $$(".tilt").forEach(function (c) {
       var m = c.querySelector(".work-media");
       c.addEventListener("pointermove", function (e) {
@@ -129,7 +129,7 @@
     });
   }
 
-  /* ---- hero hexagon field ---- */
+  /* hero hexagon field */
   var cv = document.getElementById("hexfield");
   if (cv && cv.getContext) {
     var ctx = cv.getContext("2d"), W, H, dpr, cells = [], R = 34, mouse = { x: -999, y: -999 }, running = true, t0 = performance.now();

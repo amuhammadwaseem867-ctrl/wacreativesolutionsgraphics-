@@ -135,7 +135,7 @@ def tag(p):
     return '<span class="tag">Concept</span>' if p.get("concept") else ""
 
 
-# ---------------- home ----------------
+# home
 def home():
     feats = [p for p in P if p.get("featured")][:3]
     reel = "".join(f'<a href="work/{p["slug"]}.html" class="reveal-img" data-cursor="View"><img src="{p["cover"]}" alt="{e(p["title"])} project cover"><span>{e(p.get("short", p["title"]))}</span></a>' for p in feats)
@@ -262,7 +262,7 @@ def home():
              "Portfolio of Muhammad Waseem Akram, graphic designer at WA Creative Solution: brand identities, logos, packaging, business cards, flyers and UI/UX design.", "", P[0]["cover"]) + body)
 
 
-# ---------------- case pages ----------------
+# case pages
 def text_on(hexv):
     h = hexv.lstrip("#"); r, g, b = (int(h[i:i+2], 16) for i in (0, 2, 4))
     return "#080808" if (0.299*r + 0.587*g + 0.114*b) > 150 else "#F5F2EA"

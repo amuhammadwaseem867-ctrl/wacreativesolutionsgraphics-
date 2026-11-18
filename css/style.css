@@ -257,3 +257,10 @@ a.val:hover { text-decoration: underline; }
 .lb-close { top: calc(34px + env(safe-area-inset-top, 0px)); right: max(12px, env(safe-area-inset-right, 0px)); }
 
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; animation: none !important; } }
+
+/* No cropping: every image keeps its own shape (Wasi, 2026-11-18). */
+.hero-reel { align-items: start; }
+.hero-reel a, .hero-reel a:nth-child(n+2), .work-media, .work-item.feature .work-media { aspect-ratio: auto !important; }
+.hero-reel img, .work-media img { height: auto; object-fit: contain; }
+.hero-reel a:hover img, .work-card:hover .work-media img { transform: none; }
+.work-grid { align-items: start; }

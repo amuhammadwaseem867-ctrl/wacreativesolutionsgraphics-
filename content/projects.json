@@ -195,6 +195,131 @@
       ]
     },
     {
+      "slug": "pure-and-bold",
+      "title": "Pure & Bold Beauty",
+      "short": "Pure & Bold",
+      "discipline": "Packaging, product catalogue, brand presentation",
+      "categories": [
+        "packaging",
+        "identity"
+      ],
+      "featured": true,
+      "summary": "A bilingual product catalogue and packaging presentation for a Canadian luxury skincare and body-ritual brand.",
+      "overview": "Pure & Bold Beauty makes body rituals and skincare inspired by Moroccan hammam traditions and backed by science. The brief was a 31-page English and French catalogue that introduces the brand, its founder and its two collections to spas, salons and retail partners.",
+      "challenge": "The book had to feel as premium as the products, work in two languages page for page, and explain scrubs, body milks, oils and creams clearly enough for professional buyers.",
+      "solution": "A warm sand and cream layout with deep red product photography, a refined serif with a handwritten script accent, airy editorial spreads and a consistent product-profile system. Each English spread has a matching French spread, ending with formats, partnership details and the quality philosophy.",
+      "services": [
+        "Catalogue design",
+        "Packaging presentation",
+        "Editorial layout",
+        "Bilingual typesetting",
+        "Art direction"
+      ],
+      "palette": [
+        {
+          "name": "Rouge",
+          "hex": "#8E1B1B"
+        },
+        {
+          "name": "Terracotta",
+          "hex": "#C27A54"
+        },
+        {
+          "name": "Sand",
+          "hex": "#E9E1D0"
+        },
+        {
+          "name": "Cocoa",
+          "hex": "#4A2E25"
+        }
+      ],
+      "fonts": [
+        {
+          "name": "Oblata Display",
+          "role": "Headlines"
+        },
+        {
+          "name": "Acumin",
+          "role": "Body text"
+        },
+        {
+          "name": "Monthy Script",
+          "role": "Handwritten accents"
+        }
+      ],
+      "values": [
+        "Luxury",
+        "Natural",
+        "Science-led",
+        "Ritual"
+      ],
+      "cover": "assets/work/pure-and-bold/cover.jpg",
+      "gallery": [
+        {
+          "src": "assets/work/pure-and-bold/cover-alt.jpg",
+          "caption": "Catalogue cover",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/new-products.jpg",
+          "caption": "New products opener",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/brand-story.jpg",
+          "caption": "Brand story and philosophy"
+        },
+        {
+          "src": "assets/work/pure-and-bold/philosophy.jpg",
+          "caption": "More than a product line",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/body-rituals.jpg",
+          "caption": "Body Rituals collection",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/scrub-profiles.jpg",
+          "caption": "Scrub experience profiles"
+        },
+        {
+          "src": "assets/work/pure-and-bold/body-milk.jpg",
+          "caption": "Body milk range",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/skincare.jpg",
+          "caption": "Skin Care collection",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/facial-oil.jpg",
+          "caption": "Facial oil and cleansing"
+        },
+        {
+          "src": "assets/work/pure-and-bold/day-night-cream.jpg",
+          "caption": "Day and night cream",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/formats.jpg",
+          "caption": "Available formats",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/partnerships.jpg",
+          "caption": "Professional enquiries",
+          "half": true
+        },
+        {
+          "src": "assets/work/pure-and-bold/quality.jpg",
+          "caption": "Quality and formulation",
+          "half": true
+        }
+      ]
+    },
+    {
       "slug": "af7",
       "title": "AF7 Apparel Fastener",
       "short": "AF7",
@@ -356,6 +481,97 @@
       ]
     },
     {
+      "slug": "mushroom-cocoa",
+      "title": "Inner Elevate Mushroom Hot Cocoa",
+      "short": "Mushroom Cocoa",
+      "discipline": "Packaging design",
+      "categories": [
+        "packaging"
+      ],
+      "summary": "Stand-up pouch packaging for a sleep-support mushroom hot chocolate, in a dreamy night edition and a bold black edition.",
+      "overview": "Inner Elevate's hot chocolate blends organic cacao with five adaptogenic mushrooms, magnesium and L-theanine to help people wind down at night. The pouch needed to sell that calm on a crowded shelf.",
+      "challenge": "Functional wellness products often look clinical. This one had to feel cosy and premium, carry a lot of label information, and still read clearly from the shelf.",
+      "solution": "Two directions on a 160 by 230 mm pouch. The night edition uses deep indigo, a moon, stars and an illustrated mushroom. The black edition uses a line-art cacao and mushroom ornament in copper with bold orange type. Both share a clear hierarchy, ingredient tags, icon badges and a full nutrition panel.",
+      "services": [
+        "Packaging design",
+        "Dieline artwork",
+        "Illustration",
+        "Label copy layout",
+        "3D mockups"
+      ],
+      "palette": [
+        {
+          "name": "Night Indigo",
+          "hex": "#3B3A78"
+        },
+        {
+          "name": "Lavender",
+          "hex": "#A9A6E0"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#1C1A19"
+        },
+        {
+          "name": "Copper",
+          "hex": "#D8743A"
+        }
+      ],
+      "fonts": [
+        {
+          "name": "Gotham",
+          "role": "Product name"
+        },
+        {
+          "name": "Helvetica Neue",
+          "role": "Label and nutrition text"
+        }
+      ],
+      "values": [
+        "Calm",
+        "Natural",
+        "Trusted",
+        "Indulgent"
+      ],
+      "cover": "assets/work/mushroom-cocoa/cover.jpg",
+      "gallery": [
+        {
+          "src": "assets/work/mushroom-cocoa/purple-dieline.jpg",
+          "caption": "Night edition: front and back with dieline"
+        },
+        {
+          "src": "assets/work/mushroom-cocoa/purple-pouch.jpg",
+          "caption": "Night edition pouch, front and back",
+          "half": true
+        },
+        {
+          "src": "assets/work/mushroom-cocoa/purple-hanging.jpg",
+          "caption": "Night edition, hanging pouch mockup",
+          "half": true
+        },
+        {
+          "src": "assets/work/mushroom-cocoa/black-flat.jpg",
+          "caption": "Black edition 8.5 oz: front and back artwork",
+          "half": true
+        },
+        {
+          "src": "assets/work/mushroom-cocoa/black-pouch.jpg",
+          "caption": "Black edition 8.5 oz pouch",
+          "half": true
+        },
+        {
+          "src": "assets/work/mushroom-cocoa/black-night-flat.jpg",
+          "caption": "Black edition 11.2 oz: front and back artwork",
+          "half": true
+        },
+        {
+          "src": "assets/work/mushroom-cocoa/black-night-pouch.jpg",
+          "caption": "Black edition 11.2 oz pouch",
+          "half": true
+        }
+      ]
+    },
+    {
       "slug": "corvane",
       "title": "Corvane",
       "discipline": "Brand identity, private wealth",
@@ -440,6 +656,82 @@
       ]
     },
     {
+      "slug": "jennibag",
+      "title": "JenniBag Air Pump",
+      "short": "JenniBag",
+      "discipline": "Packaging design",
+      "categories": [
+        "packaging"
+      ],
+      "summary": "Retail box packaging for a rechargeable mini air pump, in two black finishes.",
+      "overview": "The JenniBag Air Pump Pro is a small USB-C pump for vacuum storage bags, inflatable beds, sofas and pool rings. It sells in retail and online, so the box has to show the product and its uses at a glance.",
+      "challenge": "A small, technical product with many uses and certification marks, all to fit on a compact tuck-end box without looking cluttered.",
+      "solution": "A matte black box with the pump shown at full size on the front, a clear Tiny and Fast headline, a parts diagram on the side panel and a Multiple Uses icon grid on the back. Design 1 uses a bold sans headline; the second design uses a lighter, more premium serif with a line-drawn product view.",
+      "services": [
+        "Packaging design",
+        "Dieline artwork",
+        "Product diagrams",
+        "Icon set",
+        "3D mockups"
+      ],
+      "palette": [
+        {
+          "name": "Matte Black",
+          "hex": "#1E1F21"
+        },
+        {
+          "name": "Graphite",
+          "hex": "#3A3D42"
+        },
+        {
+          "name": "Pump Teal",
+          "hex": "#3FC6C0"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "fonts": [
+        {
+          "name": "Poppins",
+          "role": "Headlines and labels"
+        },
+        {
+          "name": "Anona",
+          "role": "Product line accents"
+        }
+      ],
+      "values": [
+        "Compact",
+        "Powerful",
+        "Practical"
+      ],
+      "cover": "assets/work/jennibag/cover.jpg",
+      "gallery": [
+        {
+          "src": "assets/work/jennibag/v1-dieline.jpg",
+          "caption": "Design 1: box dieline",
+          "half": true
+        },
+        {
+          "src": "assets/work/jennibag/v1-box.jpg",
+          "caption": "Design 1: front and back",
+          "half": true
+        },
+        {
+          "src": "assets/work/jennibag/v3-dieline.jpg",
+          "caption": "Design 2: box dieline",
+          "half": true
+        },
+        {
+          "src": "assets/work/jennibag/v3-box.jpg",
+          "caption": "Design 2: front and back",
+          "half": true
+        }
+      ]
+    },
+    {
       "slug": "ember-and-oak",
       "title": "Ember & Oak",
       "discipline": "Brand identity, packaging, web",
@@ -517,6 +809,76 @@
       ]
     },
     {
+      "slug": "biome-essence",
+      "title": "Biome Essence",
+      "discipline": "Label design, product line",
+      "categories": [
+        "packaging"
+      ],
+      "summary": "A five-product supplement label system for a gut-health brand, with one layout and a different hero for each formula.",
+      "overview": "Biome Essence sells probiotics, ACV gummies, metabolism support, berberine and a colon cleanse. Each bottle needed its own identity while the range still reads as one family on the shelf.",
+      "challenge": "Supplement labels carry dense legal text and supplement facts panels, and five products in one range can easily blur together.",
+      "solution": "A deep green wrap label with a sweeping curve, a seal-style badge and a light botanical pattern. Each product gets its own name, a short promise and a small hero image, while the left and right panels keep usage, cautions and supplement facts in the same place on every bottle.",
+      "services": [
+        "Label design",
+        "Product line system",
+        "Supplement facts layout",
+        "Print-ready artwork"
+      ],
+      "palette": [
+        {
+          "name": "Deep Green",
+          "hex": "#163B2E"
+        },
+        {
+          "name": "Leaf",
+          "hex": "#2E9E57"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "fonts": [
+        {
+          "name": "Gotham",
+          "role": "Product names"
+        },
+        {
+          "name": "Myriad Pro",
+          "role": "Label text"
+        }
+      ],
+      "values": [
+        "Clean",
+        "Trustworthy",
+        "Natural"
+      ],
+      "cover": "assets/work/biome-essence/cover.jpg",
+      "gallery": [
+        {
+          "src": "assets/work/biome-essence/deep-biome-flora.jpg",
+          "caption": "Deep Biome Flora, Probiotic-60 Billion"
+        },
+        {
+          "src": "assets/work/biome-essence/orchard-dew-chews.jpg",
+          "caption": "Orchard Dew Chews, Apple Cider Vinegar"
+        },
+        {
+          "src": "assets/work/biome-essence/oxygenic-pulse.jpg",
+          "caption": "Oxygenic Pulse, Oxy Burn"
+        },
+        {
+          "src": "assets/work/biome-essence/golden-root.jpg",
+          "caption": "Golden Root Extract, Berberine"
+        },
+        {
+          "src": "assets/work/biome-essence/tidal-sweep.jpg",
+          "caption": "Tidal Sweep, Colon Cleanse"
+        }
+      ]
+    },
+    {
       "slug": "mono",
       "title": "Mono",
       "discipline": "Brand identity, art direction",
@@ -536,7 +898,7 @@
         "Packaging",
         "Art direction"
       ],
-      "cover": "assets/work/mono/stationery.webp",
+      "cover": "assets/work/mono/cover-wide.webp",
       "gallery": [
         {
           "src": "assets/work/mono/logo-primary.webp",

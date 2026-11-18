@@ -171,9 +171,9 @@ def home():
 </li>''')
     services = [
         ("Brand identity", "Logo, colours, fonts and a guideline book your team can follow.", ["Logo suite", "Colour and typography", "Brand guidelines", "Tone of voice"]),
-        ("Logo design", "A logo that works on a sign, a phone screen and a stamp, with all the files.", ["Concept directions", "Construction and clear space", "Colour and one-colour versions", "AI, SVG, PDF and PNG files"]),
-        ("Packaging", "Boxes, labels, pouches and cups, with print-ready dielines.", ["Dielines", "Labels and sleeves", "Carton and polybag artwork", "3D mockups"]),
-        ("Business cards and stationery", "Business cards, letterheads, envelopes and email signatures in one style.", ["Business cards", "Letterhead and envelope", "Compliments slip", "Print-ready CMYK files"]),
+        ("Logo design", "A logo that works on a sign, a phone screen and a stamp, with all the files.", ["Concept directions", "Construction and clear space", "Colour and one colour versions", "AI, SVG, PDF and PNG files"]),
+        ("Packaging", "Boxes, labels, pouches and cups, with print ready dielines.", ["Dielines", "Labels and sleeves", "Carton and polybag artwork", "3D mockups"]),
+        ("Business cards and stationery", "Business cards, letterheads, envelopes and email signatures in one style.", ["Business cards", "Letterhead and envelope", "Compliments slip", "Print ready CMYK files"]),
         ("Flyers, print and social", "Flyers, posters, menus and social posts in every size you need.", ["Flyers and posters", "Menus and brochures", "Social post templates", "Stories and ads"]),
         ("UI/UX design", "Website and app screens that match your brand, from wireframes to final design.", ["Website design", "Mobile app screens", "Design systems", "Prototypes"]),
     ]
@@ -271,7 +271,7 @@ def text_on(hexv):
 def case(p, nxt):
     pre = "../"
     facts = f'<div><dt>Discipline</dt><dd>{e(p["discipline"])}</dd></div><div><dt>Scope</dt><dd>{e(", ".join(p["services"]))}</dd></div>'
-    facts += f'<div><dt>Type</dt><dd>{"Self-initiated concept project" if p.get("concept") else "Client brand project"}</dd></div>'
+    facts += f'<div><dt>Type</dt><dd>{"Self initiated concept project" if p.get("concept") else "Client brand project"}</dd></div>'
     system = ""
     if p.get("palette") or p.get("fonts"):
         sw = ""
